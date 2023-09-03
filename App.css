@@ -1,0 +1,61 @@
+
+body{
+  background-color: rgb(4, 4, 74);
+}
+
+
+.app{
+
+  border: 2px solid  lightseagreen;
+  border-radius: 25px;
+  width: 400px;
+  height: 350px;
+  margin: auto;
+  position: absolute;
+   top: 30%;
+   left: 35%;
+   color: white;
+   /* color: black; */
+   padding: 25px;
+   /* background-color: rgb(4, 4, 74); */
+   box-shadow: 5px 10px lightseagreen;
+
+   
+
+}
+h1{
+  
+  text-align: center;
+}
+.lab1{
+  text-align: center;
+  margin-top: 25px;
+  font-size: 24px;
+}
+
+.center{
+  text-align: center;
+  margin-top: 20px;
+}
+.btn{
+  border: 2px solid lightseagreen;
+  padding: 10px 25px;
+  border-radius: 10px;
+  font-size: 16px;
+ 
+
+}
+.btn:hover{
+  background-color: lightseagreen;
+  color: white;
+  transition: 0.5s;
+ 
+}
+input{
+  border: 2px solid lightseagreen;
+
+  padding: 5px 25px;
+  border-radius: 10px;
+
+}
+
